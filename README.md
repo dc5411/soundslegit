@@ -21,7 +21,7 @@ Well, it is a speaker after all. And it definitely sounds legit...
 
 |#| Date | Conference | Link to Video | Link to Slides |
 |---|---|---|---|---|
-|1| AUG-2020 | DEF CON 28 Red Team Village | - | https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UTbko90dQu5Ov09TqXE/edit?usp=sharing |
+|1| AUG-2020 | DEF CON 28 Red Team Village | https://youtu.be/by3PzLYaiqM | https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UTbko90dQu5Ov09TqXE/edit?usp=sharing |
 
 ## Credits
 
